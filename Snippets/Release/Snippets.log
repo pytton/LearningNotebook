@@ -1,0 +1,7 @@
+﻿  clock.cpp
+src\clock.cpp(14): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 366 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snippets.vcxproj -> C:\Users\pytto\Documents\Visual Studio 2015\Projects\LearningNotebook\Release\Snippets.exe
+  Snippets.vcxproj -> C:\Users\pytto\Documents\Visual Studio 2015\Projects\LearningNotebook\Release\Snippets.pdb (Full PDB)

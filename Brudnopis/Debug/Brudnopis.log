@@ -1,0 +1,4 @@
+﻿  BaseDerivedClasses.cpp
+c:\users\pytto\documents\visual studio 2015\projects\learningnotebook\brudnopis\basederivedclasses.cpp(61): warning C4101: 'name': unreferenced local variable
+  Brudnopis.vcxproj -> C:\Users\pytto\Documents\Visual Studio 2015\Projects\LearningNotebook\Debug\Brudnopis.exe
+  Brudnopis.vcxproj -> C:\Users\pytto\Documents\Visual Studio 2015\Projects\LearningNotebook\Debug\Brudnopis.pdb (Full PDB)

@@ -1,0 +1,2 @@
+﻿  fileIO.cpp
+  Snippets.vcxproj -> C:\Users\Michael\Documents\Visual Studio 2015\Projects\LearningNotebook\Debug\Snippets.exe
